@@ -117,4 +117,6 @@ export default {
 //                              https://ant.design/components/form-cn/#getFieldDecorator(id,-options)-参数
 //     attrs:     {Object}      标签属性(optional), 参考 antd 各组件属性写法
 //     value:     {Any}         该字段的值(required)
+//     required:  {String}      该字段必输标识(optional), 字段由多个子组件组成时提供
+//     layout:    {Array}       自定义标签与表单元素布局(optional)
 // }
